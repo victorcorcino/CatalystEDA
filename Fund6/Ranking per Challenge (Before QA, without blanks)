@@ -1,0 +1,768 @@
+Challenge:  F6: Distributed decision making
+                             Idea Title  OverallScore  Requested Budget
+1   Connecting Asian Voters & Proposers      4.809524             15000
+2        Catalyst QA Automation scripts      4.777778              3650
+3   Catalyst: Exploratory Data Analysis      4.766667              4000
+4   Community Tools Maintenance/Updates      4.750000              3200
+5                      Voter Tool - AIM      4.666667              9790
+6          Oversight of Catalyst Circle      4.638889              7440
+7          Power Up The Catalyst Circle      4.629630              9500
+8     Catalyst Interactive News Journal      4.571429             25000
+9      Design & Sim of Voting Influence      4.333333             50000
+10    Consenz: A Virtual Parliament App      4.266667             25000
+11                          2Min Review      4.250000             12000
+12    Distributed Work-Reward Mechanism      4.190476              4760
+13                 Cardano Smart Voting      4.166667              1750
+14  Catalyst Proposals Assessment Guide      4.055556             10600
+15                  Cardano Catalyst TV      3.966667              4000
+16    Stake Pool Operators Video Series      3.333333              9000
+17                     Catalyst Compass      3.300000             50000
+18   Distributed Collaboration Protocol      3.250000              6000
+19    Improve the Quality of CA Reviews      3.000000                 1
+20      Testing MyVoice MVP in Catalyst      2.666667             10000
+
+Challenge:  F6: DeFi and Microlending for Africa
+                             Idea Title  OverallScore  Requested Budget
+1         Direct Donation for Education      4.888889              9280
+2             CheCha - With ADA Wallets      4.666667             28520
+3   Defi Credit Union Via Crowd-staking      3.714286              9200
+4      Green Lion (GL) lending in Ghana      3.666667             15000
+5    StableCoin Wallet without Internet      3.259259             25000
+6   Distributed Income Share Agreements      3.133333             40000
+7       Microlending Partnership Models      2.333333              9120
+8         Lending platform for africans      2.291667             24000
+9         Helping African Social Savers      1.703704             45000
+10                   Scaling up Tontine      1.700000             30000
+11  Oracle CPI data 47 African counties      1.600000             85000
+12   Trade Finance and Credit Insurance      1.266667              2829
+
+Challenge:  F6: Developer ecosystem
+                              Idea Title  OverallScore  Requested Budget
+1    gimbalabs-building network capacity      4.944444             27350
+2              Plutus PAB Typescript SDK      4.888889             35000
+3         gimbalabs - Plutus PBL program      4.833333             44000
+4    Bip32Ed25519 pure JS implementation      4.809524             25000
+5    GMBL-turn devs into blockchain devs      4.809524             54000
+6               Gravatar for ADA Wallets      4.777778             87700
+7                Cardanoscan API Service      4.740741             68000
+8           Logosphere - dApp Hackathons      4.733333            100000
+9        Retroactive Project Funding SDK      4.722222             64200
+10     Software as a Service for Cardano      4.708333             60000
+11   Koios - Elastic Cardano Query Layer      4.666667             30000
+12         Blace.io: Marketplace Creator      4.666667            115700
+13       gimbalabs - Dandelion Daemon(s)      4.666667             41600
+14                        Blockfrost PAB      4.666667             64500
+15     Cardano Wallet lib in pure JS(TS)      4.666667             92000
+16    Ikigai - UE4/Unity Plugins & Tools      4.666667             60000
+17           Dart SDK for Blockfrost API      4.611111              9400
+18   Orcfax: trustworthy Cardano oracles      4.600000             49500
+19          Dataset - On-Chain Analytics      4.533333              4575
+20    Crowdfunding Website for Start-Ups      4.508772            120000
+21    Continuous Finance Building Blocks      4.500000             75000
+22   Heidrun Expansion Upgrades - Part 3      4.500000             25000
+23    ADA MakerSpace Bounty Hunters DEVX      4.466667             18000
+24     Transaction editor to replace cli      4.444444             16400
+25        Legacy Databases to Blockchain      4.416667             73024
+26      Dataset - Token / CNFT Analytics      4.416667              9375
+27    African Blockchain Centre for Devs      4.400000             37500
+28    GameChanger: The onboarding wallet      4.388889             47400
+29                CardanoSharp - Minting      4.333333              2920
+30           Elm Integration with Plutus      4.333333              6000
+31       Zimbabwe Developers for Cardano      4.333333             30600
+32            Cardano Analytics Data Hub      4.333333             60000
+33   Visual Blockchain Designer/Explorer      4.333333             50000
+34         Blockfrost Unity games assets      4.291667             37000
+35        Legal resources for developers      4.285714             98000
+36   Heidrun Expansion Upgrades - Part 1      4.285714             20000
+37     Localize Yoroi for Vietnam market      4.277778              4000
+38        Dataset - Stake Pool Analytics      4.266667             10080
+39           Localize Yoroi for Bulgaria      4.250000              2500
+40    Cardano Wallet Flutter SDK - Fund6      4.200000             30000
+41         3D-Level editor for game-devs      4.166667             60000
+42   Heidrun Expansion Upgrades - Part 2      4.166667             20000
+43      Heidrun Core Management Upgrades      4.166667             20000
+44            Cardano Wallet JS Multisig      4.166667              4800
+45    Arweave as NFT storage [NFT-MAKER]      4.166667             30000
+46              CardanoSharp - Unity SDK      4.083333              7760
+47    Multiverse - dApp Rollback Handler      4.066667            100000
+48      Contract Labeling & Transparency      4.066667             68000
+49                    C64 Modular Wallet      4.066667             23860
+50    NEO-Cardano NFT Bridge [NFT-MAKER]      4.000000             50000
+51       CardanoSharp - UnrealEngine SDK      4.000000             10180
+52           Treasury for Mini-Proposals      4.000000             59354
+53     StorJ for NFT storage [NFT-MAKER]      3.944444             30000
+54               Open-source ISO Toolkit      3.944444             17600
+55                Minswap TypeScript SDK      3.904762             39600
+56   Testnet support for API [NFT-MAKER]      3.866667             15000
+57       True limitations of the Marlowe      3.857143              5000
+58               CardanoSharp - Multisig      3.833333              5340
+59   CardanoSharp - Interactive Learning      3.777778              2920
+60         Rust Cardano Networking Crate      3.750000             14000
+61   SOLID Software Development Projects      3.733333             80100
+62               No-Code Smart Contracts      3.722222            114800
+63                  Reach POC on Cardano      3.666667            186000
+64    BEN Learn Cardano Developer Course      3.625000             50500
+65     Plutus Integration with Pony Lang      3.611111              6000
+66   CardanoSharp Smart Contract Support      3.611111             10180
+67    ETH-Cardano NFT Bridge [NFT-MAKER|      3.533333             50000
+68           KNuggies Education Platform      3.500000             72000
+69            Localize Yoroi for Ukraine      3.466667              2500
+70   Marketing for Ada Integration Tools      3.428571             30000
+71             Cardano Developer Academy      3.333333             18000
+72     CPU/IOT development for fact data      3.333333             80000
+73    Africa/Diaspora Dev Tools & Events      3.333333             30000
+74     Localize in Ukrainian and Russian      3.333333             19900
+75   IOTA-Cardano NFT Bridge [NFT-MAKER]      3.285714             50000
+76                  Visual DAO Framework      3.277778             72350
+77    Bridge between Catalyst and Kaggle      3.250000             15000
+78      Tutorchain.io - Cardano use case      3.166667             15000
+79         CCC: Cardano Multiversity MVP      3.125000            150000
+80   CCC: Reset Ready?|Value-Flow Wealth      3.111111             90000
+81       Incentivized Developer Training      3.000000             33000
+82      Delegator Dividend Reward System      2.916667             50000
+83            Cardano meditation network      2.916667             11980
+84                        AI App Builder      2.888889            220000
+85       Prediction Outcome Verification      2.888889             45000
+86    Mobile App Template For Blockchain      2.875000            180000
+87             Fair Stake Pool Selection      2.666667             29500
+88         Layer 2 Advanced Architecture      2.533333            200000
+89     dApp Templates & GUI dApp Modules      2.407407             72000
+90                        NFT API window      2.333333              5000
+91               Cryptocurrency Exchange      2.222222            200000
+92     People Centred Design = less risk      2.055556            320000
+93                 Cardano Data Indexing      1.866667            110000
+94       Blockchain-Powered forex Market      1.761905            200000
+95       Cross-border payment processing      1.733333            200000
+96     Ranking projects built on cardano      1.523810             80000
+97               CCC: Work|Live|Play@MOA      1.500000            198000
+98                                 dRISK      1.333333                 5
+99   Gaming in Cardano For Mass Adoption      1.277778             20000
+100    Holistic Development Case Studies      1.166667             20000
+101                   NFT Payment Option      1.111111              7634
+102        A viral onboarding experience      1.111111            550000
+
+Challenge:  F6: DApps & Integrations
+                              Idea Title  OverallScore Requested Budget
+1     Dapp to control/monetize your data      4.800000            46850
+2        Blockademia Verification System      4.733333            40000
+3             Win-Win Dispute Resolution      4.666667            25000
+4      ADAPlus.io - Mass payments system      4.577778            30000
+5        Private Transactions on Cardano      4.466667            30000
+6     Cardano-based Marketplace: Round 2      4.444444             5000
+7           Connect discord with cardano      4.444444             4500
+8      P2P IoT Marketplaces - Adosia IoT      4.400000            40000
+9        Arbitration for Smart Contracts      4.400000            55000
+10        Zero-interest-penalty CD Token      4.400000               50
+11    Tales In The Blocks|Collab-writing      4.388889            11600
+12                         Medusa Wallet      4.333333            30000
+13           Cornucopias Smart Contracts      4.333333            42000
+14             Staking Pool as a Service      4.333333            19937
+15       Upper/Cut! Unity Card Game dApp      4.333333            20000
+16       AdaQuest(aka The Quest for Ada)      4.303030            75000
+17    Mirqur DEX - Improved LP Interface      4.250000            36200
+18    Decentralized tutoring marketplace      4.238095            15000
+19          SuBChain: Subsea Data Ledger      4.222222            19992
+20        Connecting delegators to SPOs.      4.200000            40000
+21    Fanance Club - Sports Player's DEX      4.133333            50000
+22               ALLIN Betting Ecosystem      4.133333            67000
+23    Meditation empowered by blockchain      4.083333            26500
+24   IGIVIT Phase2: Beyond the Prototype      4.083333            57440
+25   API for Multi-Delegation Portfolios      4.066667            10000
+26          Cardol.io: Portfolio Tracker      4.017544            20000
+27      Estati - Real Estate Investments      4.000000            24000
+28       ADA Payments for eCom and Store      4.000000            20000
+29     Cardano Healthcare Infrastructure      3.933333            10000
+30                M2 Realfi openhardware      3.933333             5000
+31                           Nami Wallet      3.866667            40000
+32                   Cardano Credit Card      3.857143            70000
+33         Cardano features for everyone      3.833333            50000
+34             BingoToken - Play-To-Earn      3.809524            10000
+35          Cardano Blue NFT Marketplace      3.791667            40000
+36         Decentralized Content Network      3.777778            75000
+37                  NFT Business lessons      3.722222            21000
+38       NFTree: regenerating the planet      3.722222            50000
+39          Cardano Music Streaming Dapp      3.611111            60000
+40       Nature Coin: Climate Change DAO      3.600000            50000
+41                    Trust Funds by Ada      3.583333            25000
+42                   Telegram Bot Wallet      3.583333             7000
+43        Youbiquitor - Task Marketplace      3.583333            35000
+44   Liquifi V2 - efficient DEX protocol      3.555556           100000
+45            NOETH: Cardano for Science      3.518519            30000
+46    NFT-Craze Android iOS Light Wallet      3.500000            40000
+47              de-way: empowering ideas      3.416667            40000
+48   DOOH media meets decentralized tech      3.400000           200000
+49        ccwallet.io - light web wallet      3.333333            30000
+50                   Ledger Live Support      3.333333            15000
+51   Token Allies: Business Tokenization      3.285714            20000
+52      GIST - Cardano / Polkadot Bridge      3.285714            15000
+53      Fight scammers & protect Cardano      3.277778             8000
+54              Automated Tax Collection      3.166667            25000
+55                         B2B Ecosystem      3.166667            42000
+56              Vanity Address Generator      3.133333            11939
+57                           M2-mini-atm      3.066667            12200
+58   Collude: Empowering Artists In Film      3.066667            90000
+59     Bring traffic to brick&mortar biz      3.000000           250000
+60   Cardax - DEX on Cardano phase 2,3,4      3.000000            50000
+61                     Divine Blockchain      3.000000           210000
+62         Planet Cardano - Gamification      2.933333            70000
+63    Efficient Markets for Public Goods      2.916667           250000
+64    Project Rockstar - the MAIN hustle      2.916667            14041
+65       Unique Digital Identity for KYC      2.866667            20000
+66     Project Babbage: Ada Makes Movies      2.833333            45000
+67     projectNEWM: Fair music ecosystem      2.833333            60000
+68         Patient Data Marketplace DApp      2.800000            33850
+69     Payments for High Risk Businesses      2.777778             5000
+70        IG-inspired DApp for Pet lover      2.750000           100000
+71   Liquidity for cross-border payments      2.666667            50000
+72    Dapp market for tickets and events      2.600000            62000
+73         Shark Tank 2.0 - Reality Show      2.600000           200000
+74          CcNFTs: Empowering Musicians      2.571429             1500
+75        Gas Pipeline Security upgrade.      2.555556            20000
+76      Pilot traceability of vegetables      2.541667            13000
+77        Gamify Your Life using Cardano      2.476190            60000
+78                        School of Life      2.466667             7500
+79      Point-of-Sale & Website Checkout      2.428571            50000
+80     Multisig For Building EVM Bridges      2.416667            40000
+81      Data Marketplace with AI powered      2.400000           120000
+82            Financial Literacy For All      2.333333            35000
+83      API powering ticket distribution      2.277778            22000
+84                 Hard money on Cardano      2.266667            38625
+85                           Dolos: dVPN      2.266667            30000
+86                              OctoWars      2.166667           125000
+87   Decentralised Advertising Platform.      2.000000             8000
+88                                Sweaty      1.944444            66500
+89   Shared Reality - immutable database      1.916667            20000
+90       Aregato - ADA ebook marketplace      1.916667             9700
+91         Decentralized Music Streaming      1.833333            20000
+92      Shared Reality - incentive token      1.833333            20000
+93                   Car service history      1.791667           150000
+94         Individuals Security Tracking      1.476190           100000
+95     Donors choose - like' application      1.400000              NaN
+96     Help Renters Access Homeownership      1.400000            40000
+97        Ecommerce and lending platform      1.333333            50000
+98                                NAGchi      1.285714             9500
+99                          M2-World-ERP      1.266667           100000
+100                      Online Shopping      1.266667            10000
+101  Cardano based trading card game TCG      1.250000           100000
+102           communitybond.io Integrate      1.222222            10000
+103                      Develop to Earn      1.066667            44500
+104                          Marketplace      1.055556           120000
+105                DAOs to Fund Projects      1.000000            22500
+
+Challenge:  F6: Scale-UP Cardano's DeFi Ecosystem
+                             Idea Title  OverallScore  Requested Budget
+1          Maladex: Cardano Index Funds      4.711111             60000
+2   Maladex: Algorithmic Swaps Protocol      4.685185             50000
+3    DeFi for Cardano - Learning Portal      4.238095             18000
+4     Ensuro: A Decentralized Insurance      4.055556             50000
+5   Indigo: Synthetic Assets on Cardano      4.023810             60000
+6         Tools for auto and home loans      3.750000             59000
+7    Fund unlimited social microlending      3.666667              6500
+8   Community Oracle (free) Price Feeds      3.555556             25000
+9     Wise Rabbit- Livestock Investment      3.400000             30000
+10           Minswap DEX Security Audit      3.333333             75000
+11      Cardano Offline Developer's Kit      3.333333             22500
+12                     Milkomeda Oracle      3.333333            125000
+13       Algorand - Cardano DeFi bridge      2.333333              7800
+14   Panther - Private Layer 2 Protocol      2.250000            120000
+15  Liquid Labor - Freelancer Contracts      1.962963              4500
+16      Decentralized Sous Sous Savings      1.722222            150000
+17          AdaSwap - The next-gen DEX!      1.666667            150000
+18    Fantasy Bidding with Staked Funds      1.533333              8600
+19                  Oracle for CPI data      1.500000             85000
+20                   DeFi Bounty System      1.428571             24500
+21                            Pharo ACM      1.416667                 1
+22  Mosaic: DeFi Functionality for NFTs      1.190476             26400
+23      Influence Quality Price & Image      1.000000            200000
+
+Challenge:  F6: NFT Business models
+                             Idea Title  OverallScore Requested Budget
+1     NFT for customer feedback/content      4.500000            49250
+2   Phygital Hub for Local NFTs & DAOOH      4.500000            14000
+3       Dionysus - For Theatre: Phase 1      4.200000             5000
+4     osNFTs for science popularization      4.200000            18600
+5            Cardano Preserving Culture      4.083333            17000
+6     PlayerMint: Community Access NFTs      4.055556            15000
+7          Filamint - 3D Printable NFTs      4.000000            80000
+8        Explorie the next NFT platform      4.000000            70000
+9                   Mission Driven NFTs      3.933333            10000
+10            Mushroom Breeding Program      3.833333             6000
+11        Digital Asset Management Tool      3.833333            39600
+12     SoHo Ex - Physically backed NFTs      3.777778            60200
+13      Solar Energy Expansion Via NFTs      3.733333            20000
+14                             WILD NFT      3.733333            88000
+15      Cornucopias The Island NFT Game      3.714286            22000
+16   Solletia - Indie music NFT website      3.703704            50000
+17   Ikigai - Disrupting Games via NFTs      3.666667            20000
+18       Loyalty and outreach campaigns      3.666667             5000
+19      Artifact- NFT for Real Property      3.666667            20000
+20   WottleNFT: SDGs Driven NFT Auction      3.629630              NaN
+21      Cinefund - Residual backed NFTs      3.611111             9750
+22    NFT's as Proof of Donations (PoD)      3.555556            50000
+23    Skill Certification for Mediators      3.555556             9600
+24   Intellectual Property Transactions      3.500000           195000
+25    Collaborative painting using NFTs      3.500000           100000
+26   Decentralized Content Distribution      3.466667            28000
+27    Certified Qualifications via NFTs      3.400000            10000
+28                    Multi Owner NFT's      3.388889            81200
+29  African Cultural NFT Treasury Model      3.333333            26250
+30       Asset Management on the Ledger      3.333333            17500
+31   NFT Gaming Model + Token economics      3.333333            21750
+32                          CARDANO IPR      3.333333           175000
+33      Verifiable Game Achievement NFT      3.266667            60000
+34   Cardano Onboarding Funnel via NFTs      3.250000            40000
+35                        Bets as NFTs.      3.222222            21000
+36         NFTs for Architecture & STEM      3.166667            37800
+37         NFT for Real estate and Land      3.166667            45110
+38   Anime NFT game - gap in the market      3.142857            30000
+39                   NFT for the masses      3.142857             9999
+40  NFTs as event-and transport tickets      3.133333            32000
+41          NFT bridge and mega-gallery      3.095238           126000
+42   ForestConservation + CarbonCredits      3.066667             6900
+43        Conservation of Life on Earth      3.055556            76000
+44  CONTENT MARKETPLACE SUPPORTED BY AI      3.000000            21000
+45   Digital Twin NFT for Farm products      3.000000            10000
+46           nftAno - Bring your CNFT !      3.000000           129600
+47   Marketplace for tokenized property      3.000000            40000
+48      Fast Fetching Collectible Cache      2.933333            11411
+49     Get points for sharing knowledge      2.933333            50000
+50     Sustainable Footwear & Prosumers      2.888889            63600
+51           Cardano NFT Idea Patenting      2.866667                1
+52           NFTs for BETTER HEALTHCARE      2.800000            25000
+53     Engaging eco-NFTs for the Planet      2.800000            20000
+54                    Tech Town Cardano      2.777778            50000
+55                  CyphrLive Ticketing      2.666667             9000
+56       Real NFT-Gallery & voting tool      2.666667            25000
+57      Cardano Affordable Housing - 日本      2.466667           120000
+58         Mimic Nature with Living NFT      2.333333            65000
+59    OmiMimo: The 1st e-NFT on Cardano      2.333333           147000
+60          Mortgage Equity Realisation      2.222222            50000
+61            Commodity Exchange Market      2.222222           200000
+62   A Simple Cardano NFT Mobile Wallet      2.148148            50000
+63          NFT Education & Test Token       2.111111            10000
+64                  Onadracs Video Game      2.111111            15000
+65     Global Network of Crypto Lawyers      2.041667            55000
+66             Fractionalized Investing      2.000000             5000
+67   Defi Loans, NFTs and On-Network ID      1.916667           200000
+68   Building Affordable Houses Quickly      1.888889            68000
+69       Toddler HODLer Generative NFTs      1.857143            40000
+70   Exchange NFT for physical product.      1.714286            10000
+71                             Souvenir      1.700000             5000
+72  NFT for Authenticating Luxury Goods      1.666667            50000
+73      Community Bond -Loyalty Rewards      1.625000            10000
+74           NFT for translation rights      1.600000             9900
+75              NITTYGRITTY (NEW MEDIA)      1.533333           150000
+76                ADA trading metaverse      1.533333           113750
+77                      NFT Real Estate      1.476190            10000
+78                      Hup | hearth up      1.466667            20000
+79  Bidpool.xyz - NFT Governance Tokens      1.400000            32256
+80                           NTF Gaming      1.277778                6
+81                             WITHDRAW      1.166667              NaN
+
+Challenge:  F6: Proposer outreach
+                             Idea Title  OverallScore  Requested Budget
+1      Connect East Asian Entrepreneurs      4.888889             20000
+2               WADA Proposer Workshops      4.611111             10000
+3              After Town Hall by Swarm      4.481481             13804
+4         Proposals Mentors Marketplace      4.466667             39000
+5                     Fund 7+8 Campaign      4.458333             12690
+6    Fostering Japanese young proposers      4.250000              6370
+7              Cardano Community Campus      4.250000             30000
+8    Video content about Mini-Proposals      4.190476              1717
+9    Entrepreneurs/Developers Community      4.000000             20000
+10          University/College Outreach      3.916667              4900
+11                      Taiwan Outreach      3.916667             15000
+12                           CARDONEX ⚡      3.888889              5000
+13       No-Code for Citizen Developers      3.606061             33000
+14  Hackathons for Startups in Ethiopia      3.428571             37800
+15     Cardano exposure on Times Square      2.833333             56000
+16  Vietnam Tech StartupClub on Cardano      2.800000             10420
+17     🎬 "Working Title" Film Project 🎬      2.666667             56000
+18              Develop Cardano visuals      2.666667             24000
+19    Cardano & Enterprise Dev Agencies      2.611111             45000
+20  Catalyst Infosession at Tech Events      2.500000              6300
+21     A YT Channel On Decentralization      2.481481             20000
+22      SOIL - Scalable Open Innovation      2.400000             10000
+23            Small Business Case Study      2.133333             25000
+24       SMALL GROUPS BETTER UNDERSTAND      2.000000             13400
+25      Catalyst Crypto Venture Capital      1.791667             25000
+26               GovWorkCenter Platform      1.703704            100000
+27        Competition (Top 40 under 40)      1.333333             25500
+28    Community Bond - CRM tool for SME      1.166667              7500
+29                ADA buyers collection      1.000000               250
+
+Challenge:  F6: Grow Africa, Grow Cardano
+                             Idea Title  OverallScore  Requested Budget
+1   Wutano Token - Africa Health System      4.750000             45000
+2   MCA: A Model School in South Africa      4.750000             40000
+3     Elevating Manufacturing in Africa      4.666667             50000
+4     Swahili News, Insight, Onboarding      4.466667              8200
+5    P2P:Trade Cardano tokens with Cash      4.333333             36000
+6    African Learning Institutions SPOs      4.222222             10500
+7   Global Sustainable Stories/Usecases      4.222222              7887
+8         Cardano Health Infrastructure      4.185185             10000
+9   iFoncier Land Registry Burkina Faso      4.066667             63950
+10             Planting Roots in Africa      4.000000             57000
+11        ADA News in African languages      4.000000             18720
+12         Supply-Chain for Agriculture      3.933333             57356
+13  TheCatalystSchool - Focusing Africa      3.866667              9840
+14                          Black Rhino      3.833333             75000
+15    Cardano Africa Starter Kit (CASK)      3.733333             24809
+16              Plutus Lottery ADA Game      3.666667             47500
+17       Sudan ARABIC Cardano Community      3.583333              9900
+18                               JUNGLE      3.523810             50000
+19  Africa Opensource Pharma & Medicine      3.500000             60000
+20  Transform Africa through Technology      3.466667             45000
+21         Cardano Fellows Uganda (CFU)      3.200000             65000
+22    Fair Pricing for Ethiopian Coffee      3.166667             90000
+23         LINX: Chat | Connect | Trade      3.083333             26500
+24             Employment Contract Dapp      3.000000               600
+25         Payment with ADA in Ethiopia      2.944444              8000
+26          Smart Thrift Savings Wallet      2.916667             29250
+27      DApp Binding Arbitration Africa      2.833333             35000
+28            Enable Digital Governance      2.833333             50000
+29           Blockchain powered banking      2.733333            200000
+30     Auto-onboard smallholder farmers      2.571429            200000
+31       WiFi Hotspots & Internet Cafes      2.476190             25000
+32      Location, Location, Integration      2.333333            250000
+33                     Locating Culture      2.185185              3420
+34            Restrictions and barriers      2.083333               200
+35          SHiELD Africa, grow Cardano      2.000000            144000
+36      Connect, Trust, Invest : Africa      1.888889              8000
+37  Cardano and Christianity for Africa      1.866667            250000
+38      Digitised Certificate of Origin      1.750000             50000
+39   Farm Management Software in Africa      1.750000             40000
+40            Incorporating Non Profits      1.555556              2500
+41        Identify access to technology      1.166667             60000
+
+Challenge:  F6: Catalyst value onboarding
+                             Idea Title  OverallScore  Requested Budget
+1                   The Catalyst School      4.750000             17500
+2     Community Site: Development - AIM      4.714286             10000
+3         The Catalyst School - Website      4.666667             10228
+4   WADA Uni Students Catalyst Registry      4.611111              7000
+5       Eastern TownHall Team Operation      4.541667             10000
+6        Catalyst-Swarm-Genesis GitBook      4.500000              3480
+7       Incentivized Voter Survey - AIM      4.333333              8500
+8     The Catalyst School - NFT Rewards      4.333333              5000
+9        Catalyst Video Series w/Kaizen      4.222222             15500
+10  Let's make Live-NFT's with 2500 Art      4.166667              8864
+11      Off to On-Chain Self Governance      4.095238              5190
+12                Weekly Swarm Sessions      3.952381              9000
+13        Animated Explainer Videos-AIM      3.888889              8000
+14   Community Subscription Fees Recoup      3.866667               581
+15  In-Wallet Onboarding for ADAholders      3.750000             21000
+16  80 Multi Language How to ?-podcasts      3.666667              9500
+17           Micropayments for Catalyst      3.533333              9500
+18    Match members profiles with tasks      3.466667             13500
+19      Global Mission Driven News Room      3.250000              8000
+20    Tutorchain.io - Catalyst use case      3.083333              5000
+21     The Blockchain Class by Adatruth      3.000000             12000
+22     Decentralized Catalyst Incubator      2.733333             44800
+23   Catalyst 24h Streaming TV Programs      2.190476             30000
+24              Catalyst Buddies System      1.833333             10000
+25                         NAGchi Cares      1.666667              3750
+26     Marketing, Marketing, Marketing!      1.500000             20000
+
+Challenge:  F6: Multilingual resources
+                             Idea Title  OverallScore  Requested Budget
+1          On-boarding East Asia Today!      4.866667             12500
+2      Bring Smart Contracts to Vietnam      4.866667             29000
+3     ALDEA Wiki - Phase 2 - Portuguese      4.851852              5620
+4   CatalystSchool - Eastern Hemisphere      4.833333              4360
+5    Spanish News, Insights, Onboarding      4.714286              6200
+6    Cardano Center Poland - web and SM      4.625000              7000
+7         Voter tool translations - AIM      4.500000              3650
+8     Japanese SPO community management      4.466667             16830
+9   The Catalyst School - Multilanguage      4.444444              4000
+10  Educational Content in a Single Web      4.380952              8000
+11        Catalyst Course in Vietnamese      4.250000             10420
+12          Translating ProjectCatalyst      4.250000             10000
+13      SPOCRA: Expand Geographic Reach      4.250000             11340
+14  French & Arabic resources &trainers      4.238095             12000
+15   100 Cardano animations non English      4.066667             15000
+16   French Intro to Cardano in Burkina      4.055556             18000
+17           Cardano Project in Spanish      4.041667              6000
+18      Indonesian Community Web-Portal      3.904762              2535
+19             Translation into Amharic      3.833333              3800
+20    Multilingual Cardano Chatbot & KB      3.814815             28380
+21      Content translation for Chinese      3.666667             12000
+22              Cardano news in Chinese      3.458333             31780
+23        Translate NFT-MAKER to German      3.458333              3000
+24     Short videos in (african) french      3.444444              2000
+25   A Graphic Cardano Knowledge Corpus      3.388889             13670
+26  Educational materials about Cardano      3.333333             15000
+27                       SEMANA CARDANO      3.333333             24000
+28      French website to learn cardano      3.333333             21000
+29     Babelada - Translation Community      3.285714             63500
+30      Lovelace translation Portuguese      3.111111              4000
+31        Cardano BI - Native languages      3.000000             13000
+32             Localize Yoroi in French      2.809524              2500
+33    Translation - Ukrainian - Russian      2.800000              4500
+34      [Romania] Cardano Business Club      2.380952              9330
+35  Cardano Romania Community Knowledge      2.055556              4800
+36             GameChanger: IPS Program      2.000000             20000
+37    Multi-Source Translation Pipeline      1.851852              5000
+38     Multilingual NFT artist Giveaway      1.761905             29000
+39              Pull strategy for Spain      1.533333              2000
+40   Encourage Adoption in Universities      1.428571              5000
+41                          Coding Pods      1.428571             10000
+
+Challenge:  F6: Metadata challenge
+                             Idea Title  OverallScore  Requested Budget
+1        CardanoWall, new levels of PoE      4.937500             40000
+2      Logosphere - Cell Level Security      4.833333             33000
+3    How often can a brand contact you?      4.750000             36650
+4    Give Users security and confidence      4.583333             15500
+5    Frictionless document verification      4.583333             60000
+6    Data traceability and verification      4.466667             15000
+7   Applying Oracle Performance Metrics      4.400000              6000
+8    Meta-data financial real use case🔥      4.333333             20000
+9               Books: Legacy Discovery      4.285714             10000
+10     Tutorchain.io - On chain reviews      4.083333             10000
+11      Open health metrics in Colombia      3.888889             12000
+12     Deqree: Certificate Validation 🎓      3.666667             22000
+13      IoT powered Blockchain Metadata      3.666667              9999
+14  Metadata search engine enhancements      3.611111             12000
+15  Cross-chain Asset Transfer Standard      3.400000             25000
+16           Donation & Reward Tracking      3.222222              6000
+17     Smart Authentic Tokenized Assets      3.200000             20000
+18   Foorigin: The Future of Food Chain      3.055556             10000
+19                Stable-token Registry      2.666667             10000
+20                          AtalaGOTCHI      2.555556              1920
+21        Food Provenance Data Standard      2.500000             10000
+22   Immutable record of Random Numbers      2.333333              8000
+23               Metadata in Production      2.166667             80000
+24        Decentralized World Data Bank      1.833333             17500
+25            Community Bond - Metadata      1.555556              7500
+26     Generative & Evolving NPC Traits      1.458333             17888
+27     ADA Holders Functioning as Banks      1.333333             10000
+28                   Proof of Insurance      1.259259              3210
+29                    Sea Safe platform      1.142857                10
+30             Knowledge Graph platform      1.142857            100000
+
+Challenge:  F6: Atala PRISM DID Mass-Scale Adoption
+                             Idea Title  OverallScore  Requested Budget
+1     Interoperability as growth driver      4.750000             37000
+2       Universal Skills Authentication      4.444444             48000
+3           PACE: Community credentials      4.333333             20500
+4   ⭐Self-Sovereign DID Badge Passports      4.291667             50000
+5   Control your data (vault) via PRISM      4.277778             39650
+6            Decentralized Certificates      4.250000             39000
+7        Decentralized eLearning & DIDs      4.200000             50000
+8             DID in Congo Universities      4.166667             12500
+9       ACADEMY Lifelong Learning Suite      4.133333             45000
+10   DARP: Cardano Address Name Service      4.066667             47500
+11          Your DID for climate impact      4.000000             40500
+12         African Housing Payments App      4.000000             42500
+13       Generic certification solution      3.933333             49920
+14                  Cardano Interop NOW      3.800000             78000
+15  DID Solutions for Local Governments      3.750000             10000
+16  DID for verified Career Audit Trail      3.733333            150000
+17   Import passport data to AtalaPrism      3.733333            100000
+18  MySmartWill: evolution for tomorrow      3.666667             65000
+19   Paths to adopt DID in small cities      3.583333             39300
+20              DIDs for Animal Records      3.571429             36700
+21      Proof of identity for mediators      3.533333             20000
+22      Education verification with DID      3.444444             70000
+23       A Passive Interface Pair (DID)      3.433333             27000
+24   Biometric<->DID Binding Credential      3.266667             75000
+25     Biometric Smart Card Integration      3.250000            100000
+26  Play-to-learn-and-earn DID-Platform      3.222222             33600
+27             BIT - Basic Income Token      3.083333              6000
+28  Optimizing student agency with DIDs      3.083333             50000
+29   Welcome to the Oasis, Please Login      2.933333             32000
+30      Tutorchain.io - Expert identity      2.916667             10000
+31            Dyana holistic health DID      2.888889             35500
+32  CUBI Cardano Universal Basic Income      2.833333              5000
+33  Verify NFT authenticity [NFT-MAKER]      2.833333             80000
+34           Distributed Health Records      2.750000            195000
+35    Cardano Grants Management Systems      2.666667             25000
+36             Dvoting System in Brazil      2.500000            100000
+37     BingoChain - User Authentication      2.466667             20000
+38   DIDs for public services in the US      2.200000            100000
+39           Aegis Esports DID Platform      2.166667             50000
+40                      Cardano Sign-In      1.944444            250000
+41         DID as a bridge to Microsoft      1.833333              5000
+42                               gigDID      1.833333             17400
+43  CCC: PRISM RIDE @MOA; 40M Visits/yr      1.400000            150000
+44   Maternity Medical data in Ethiopia      1.333333             55000
+
+Challenge:  F6: DLT Entrepreneurship Toolbox
+                            Idea Title  OverallScore  Requested Budget
+1   Catalyst Virtual Start-up Bootcamp      4.733333             35000
+2             IDEA FEST for Fund 6 + 7      4.636364             35000
+3     Entrepreneur Community Mentoring      4.595238             25000
+4          Mini Proposals as a Service      4.533333              1404
+5     Scale up WADA's Outreach Program      4.466667              7000
+6      Proposal Templates + Guidelines      4.400000             29000
+7                 Open Source Training      4.166667              8720
+8     Library of Proposer Case Studies      4.133333             37500
+9         Helix Hub Impact Accelerator      4.000000            147000
+10       PACE: Idea collaboration tool      3.952381             10500
+11   Catalyst Entrepreneur's Book Club      3.944444              1200
+12       Proposal Framework Tool - AIM      3.933333             14000
+13   Community-Made Interactive Guides      3.888889             11500
+14  Growthwheel Business Planning Tool      3.055556             20000
+15   Tutorchain.io - for Entrepreneurs      2.933333             15000
+16   Submission templates and examples      2.833333             10000
+17                             AntFarm      2.761905             10000
+18      Intellectual Property Training      2.750000            147000
+19  Copy writing for DLT Entrepreneurs      1.761905             10000
+20       CARDANO Branding In Indonesia      1.583333             29500
+21    Bond - Connecting entrepreneurs       1.523810              7500
+22         Cardano roadmap to adoption      1.466667             15000
+23   TrillionCoin Global Charity Token      1.083333              1111
+
+Challenge:  F6: Scale-UP Cardano's Community Hubs
+                             Idea Title  OverallScore  Requested Budget
+1   SalmonNation Decentralized Alliance      4.666667             10872
+2                      DisCO of Urgency      4.666667              9862
+3                BR/US University Hubs!      4.555556              8000
+4    Cardano Vietnam Information Centre      4.444444             10420
+5     Translator Collaboration Platform      4.416667              4000
+6              Cardano Hub Buenos Aires      4.400000              9500
+7       Add multilanguage to CNFTHub.io      4.333333               500
+8    Cardano Canvas, Cards & Calculator      4.277778             19500
+9                          Homeless Hub      4.250000             18980
+10             BLOCKCHAINTRANSLATION.IO      4.166667             12380
+11               Cardano Innovation Hub      4.083333             37300
+12   Exhibit Largest BlockChainEXPO(JP)      4.000000              7250
+13                Cardano in South L.A.      4.000000              1200
+14    Interactive Cardano Ecosystem Map      3.800000             44000
+15  Scale up Cardano by JPN Publication      3.777778              9900
+16                Cardano Hub Venezuela      3.555556             12000
+17    Regional Revitalization JP-Meetup      3.333333              3000
+18      Influencing Policy for Adoption      3.200000             14000
+19                   No-Code Hackathons      3.133333             25000
+20   Alexa Skill for Cardano news feeds      3.000000              4500
+21         Cardano Hub - Eastern Europe      2.750000              8888
+22    Engage African students on campus      2.722222              3000
+23                  1 Cafe to the World      2.222222            100000
+24  Cardano Care - Charity Across Conti      2.111111             70000
+25             Cardano Learning Centers      2.083333            100000
+26       Community Bond - CRM for SME's      2.055556             10000
+27               Stop giveaway scammers      1.809524             23000
+28              AtalaGotchi's Community      1.761905              1250
+29              ADA giveaway or lottery      1.666667             10000
+30            YouTube Giveaway Scammers      1.500000             10000
+31               [Moved] Payment in ADA      1.444444             10000
+32                    Coding Challenges      1.333333            100000
+
+Challenge:  F6: Cardano Emerging Threat Alarm
+                            Idea Title  OverallScore  Requested Budget
+1    Automated Phishing/Scam Detection      4.904762             10000
+2  DragonDefender Spam/Imposter Killer      4.000000             24000
+3          Smart Contract Blacklisting      3.875000             18000
+4           CARDANO DLT-360 RISK RADAR      3.800000             30000
+5           Cardano Risk Profile Audit      3.750000             40000
+6       Crypto Regulation Surveillance      3.600000              9000
+7                           Scam Alert      2.458333              9884
+8  Automated Cyber Threat Intelligence      1.916667             40000
+9        Cardano Threat Identification      1.555556             50000
+
+Challenge:  F6: Disaster: When all is at stake
+                             Idea Title  OverallScore  Requested Budget
+1             Cardano-Heartbeat (CEM) 💞      4.833333             40000
+2   Strengthening Stake Pools in Africa      4.666667             22000
+3     Stake Pool Reachability Dashboard      4.250000              1000
+4     SPOCRA: Re-location Fund for SPOs      3.800000             80000
+5                             CardSec 🔒      3.500000             16500
+6   Cardano Disaster Recovery Education      3.400000             12000
+7        Blockfrost prometheus exporter      3.111111             23500
+8   Repository of SPO Testing Resources      2.777778              1100
+9                   ADA SPO ITsec Label      2.666667             12000
+10    A.S.T.O.P. - Stop Scams & Threats      1.791667             20000
+
+Challenge:  F6: Partnerships for Global Adoption
+                             Idea Title  OverallScore Requested Budget
+1   Research in Applying Frameworks-AIM      4.714286             8400
+2                           Almagua DAO      3.888889            10000
+3    Add SDG ratings to proposals - AIM      3.833333             7500
+4    WottleNFT: SDGs Driven NFT Auction      3.629630              NaN
+5        Tokenised crypto events (ICWT)      3.277778             4500
+6                         Research dApp      3.166667              480
+7        Partnership for De-Fi Adoption      3.083333            20000
+8                 The Roadmap Revisited      2.133333            10000
+9   Cardano Powering Planet Improvement      2.047619            15000
+10       Rapid prototyping ...made easy      2.000000            22500
+11     Involve more gov. & UN officials      1.733333            20000
+12     Endangered Language Preservation      1.533333            10000
+13                     Books for Blocks      1.333333              600
+
+Challenge:  F6: Improve and Grow Auditability
+                             Idea Title  OverallScore  Requested Budget
+1              Distributed Auditability      4.479167              8720
+2      Treasury & Catalyst Proposal API      4.380952             17200
+3       PACE: Proposal progress updates      4.250000             11500
+4          PACE: Proposal media content      3.944444             13700
+5   Smart Contract Audit Token SCAT DAO      3.733333             15000
+6   Auditing African Proposals, by WADA      3.666667             23000
+7     PACE: Proposal completion reports      3.500000             13700
+8             Financial Audit Taskforce      3.266667             25000
+9      FundTrack - Approve Before Spend      2.466667             50000
+10                        Audit via DAO      2.250000              8888
+11       The Catalyst Story by Adatruth      2.133333              6000
+
+Challenge:  F6: Fund7 challenge setting
+                             Idea Title  OverallScore  Requested Budget
+1               Boosting Cardano's DeFi      5.000000            500000
+2   Catalyst - Rapid Funding Mechanisms      5.000000            250000
+3          Fund Microlending Everywhere      5.000000            500000
+4     Seeding Cardano's Grassroots DeFi      4.916667            200000
+5   Raising small ghosts, SPOs and devs      4.888889            100000
+6                     Gamers On-Chained      4.888889            250000
+7      Grow Latin America, Grow Cardano      4.833333            500000
+8        New SPO Business Opportunities      4.833333            250000
+9     Scale-UP Cardano's Community Hubs      4.833333            350000
+10                 DApps & Integrations      4.833333            250000
+11                      DAOs <3 Cardano      4.750000            500000
+12              Miscellaneous Challenge      4.733333            200000
+13      Global Sustainable Indep. SPO's      4.733333            100000
+14        Governance Parameter Ideation      4.666667            150000
+15                  Developer ecosystem      4.583333           2000000
+16     Increasing Diversity in Catalyst      4.533333            150000
+17  Disarm cyber disinformation attacks      4.500000            100000
+18   A.I. & SingularityNet a $5T market      4.500000            500000
+19                    Proposer outreach      4.500000            200000
+20   Lobbying for favorable legislation      4.500000             75000
+21         Grow Cardano Act Sustainably      4.416667            500000
+22        Improve and Grow Auditability      4.400000            100000
+23     DeFi and Microlending for Africa      4.333333            250000
+24        Connecting Japan/日本 Community      4.333333             50000
+25                    Overhaul Catalyst      4.333333            100000
+26  Challenge Governance: The next step      4.333333            100000
+27   Already Approved Project Challenge      4.333333            250000
+28   Raise Catalyst's reach & awareness      4.250000            200000
+29      Equip the Economically Excluded      4.222222            200000
+30          Distributed decision making      4.142857            100000
+31               Multilingual resources      4.083333            100000
+32      Grow Global Economic Identities      4.083333            150000
+33         Grow East Asia, Grow Cardano      4.083333            250000
+34        Climate Change: THE Challenge      4.055556            270000
+35                   Metadata challenge      4.000000            200000
+36         DLT Entrepreneurship Toolbox      4.000000            300000
+37  Mini/Low-Budget Dapps &Integrations      4.000000            200000
+38      Open Source Developer Ecosystem      3.916667            200000
+39                     Community Events      3.904762            200000
+40  Grow Social & Environmental Finance      3.777778            250000
+41       Infrastructure Boost in Africa      3.777778            300000
+42    A financial OS for the 99% - now!      3.750000            200000
+43   Tackle & solve impossible problems      3.750000            150000
+44   Help Small Countries Adopt Cardano      3.666667            500000
+45  Atala PRISM DID Mass-Scale Adoption      3.583333            500000
+46                  Making Web3 Visible      3.583333            100000
+47            Grow Africa, Grow Cardano      3.533333            500000
+48      Anti-scam & anti-fraud campaign      3.500000            500000
+49                               Realfi      3.400000            250000
+50  Community Roadmaps for Cardano 2025      3.333333            200000
+51                   Research Challenge      3.333333             75000
+52  Prototype Diversified Voting Method      3.250000            150000
+53                Nation Building Dapps      3.222222            600000
+54    Cardano Ecosystem Gender Equality      3.095238            200000
+55   DeFi/CeFi Cardano&...TBC in Fund 7      3.055556            400000
+56                   Grow with Catalyst      2.916667           1000000
+57                          Remittances      2.833333            250000
+58             Mission Driven Challenge      2.800000            500000
+59             Local Agriculture Market      2.800000            250000
+60   Funding for Traditional Businesses      2.444444           5000000

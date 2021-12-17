@@ -260,22 +260,22 @@ Challenge:  F7: Gamers On-Chained
 
 Challenge:  F7: Catalyst Natives COTI: Pay with ADA Plug-in
                              Idea Title  OverallScore Requested Budget
-1      cPAY - TrustOrder Anti SpamOrder      4.698413              NaN
-2   Shopify Plugin: Accept Ada in Store      4.505747              NaN
-3                           Odoo plugin      4.425926              NaN
-4         Case Study: Yomi.ai & Ada Pay      4.309524              NaN
-5       Vending Machine (MDB) interface      4.240741              NaN
-6         ADA Payments for Joomla 3 & 4      4.144928              NaN
-7           Konma WEB3 payment Solution      4.129630              NaN
-8    WebApp: NodeJs COTI:ADA PaymentApp      3.980392              NaN
-9                       One-Click ₳ Pay      3.947368              NaN
-10              Affiliate e-Comm Plugin      3.523810              NaN
-11  Opensource PHP SDK for COTI ADA Pay      3.208333              NaN
-12       Crowdfunding Platform with ADA      2.500000              NaN
-13                                RAEDA      2.312500              NaN
-14       Tokenized Products for Shopify      1.946667              NaN
-15                     SOIL: E-Commerce      1.784314              NaN
-16                      Ada Pay Plug-In      1.533333              NaN
+1      cPAY - TrustOrder Anti SpamOrder      4.698413              13200
+2   Shopify Plugin: Accept Ada in Store      4.505747              35160
+3                           Odoo plugin      4.425926              17500
+4         Case Study: Yomi.ai & Ada Pay      4.309524              19600
+5       Vending Machine (MDB) interface      4.240741              16300
+6         ADA Payments for Joomla 3 & 4      4.144928              4589
+7           Konma WEB3 payment Solution      4.129630              25000
+8    WebApp: NodeJs COTI:ADA PaymentApp      3.980392              45000
+9                       One-Click ₳ Pay      3.947368              45000
+10              Affiliate e-Comm Plugin      3.523810              25000
+11  Opensource PHP SDK for COTI ADA Pay      3.208333              32800
+12       Crowdfunding Platform with ADA      2.500000              29750
+13                                RAEDA      2.312500              40000
+14       Tokenized Products for Shopify      1.946667              14000
+15                     SOIL: E-Commerce      1.784314              42
+16                      Ada Pay Plug-In      1.533333              30000
 
 Challenge:  F7: Nation Building Dapps
                              Idea Title  OverallScore Requested Budget
@@ -293,7 +293,7 @@ Challenge:  F7: Nation Building Dapps
 12         Personal Identity Management      3.766667            25000
 13                ₳GOV: Policy Registry      3.696970            27400
 14  NFT for food value chain resilience      3.633333             5000
-15         🔰 dVote - LATAM 🔰 AtalaPRISM      3.622222              NaN
+15       🔰 dVote - LATAM 🔰 AtalaPRISM      3.622222            98489
 16  Sign documents with smart contracts      3.600000           119000
 17       Public Task and Job Management      3.592593            24000
 18  Regulation/legislation as code repo      3.523810            90000
@@ -344,7 +344,7 @@ Challenge:  F7: Boosting Cardano's DeFi
 23   Cardano Subnet/VM Avalanche Bridge      3.523810             9600
 24    Climate Finance For Small Farmers      3.500000            12000
 25  Artifact- Real Estate Utility Token      3.375000            20000
-26  Infinity Financial Operating System      3.358974              NaN
+26  Infinity Financial Operating System      3.358974            24000
 27  Energy Finance |Clean energy X DeFi      3.285714            56000
 28         Research Exploration in DeFi      3.277778            50000
 29      Lossless Donation DEFI protocol      3.277778            70500
@@ -608,7 +608,7 @@ Challenge:  F7: Grow Latin America, Grow Cardano
 43       Token issuance, backed by land      3.696970           185000
 44   Portuguese onboarding Video Series      3.666667             6000
 45   Technical school for Latin America      3.633333             7500
-46         🔰 dVote - LATAM 🔰 AtalaPRISM      3.622222              NaN
+46       🔰 dVote - LATAM 🔰 AtalaPRISM      3.622222            98489
 47      Lovelace translation Portuguese      3.380952             7500
 48     Peace Blockchain Study, Colombia      3.333333             7000
 49         Latam Community DID Research      3.200000            30300
@@ -673,7 +673,7 @@ Challenge:  F7: A.I. & SingularityNet a $5T market
 35            SOIL: Semantic E-Commerce      1.700000                42
 36    Speech to sign language AI avatar      1.564103              1000
 37        Platform for philosophers AIs      1.488889            100000
-38                                 市值拉升      1.020833               500
+38                              市值拉升      1.020833               500
 
 Challenge:  F7: New SPO Business Opportunities
                              Idea Title  OverallScore  Requested Budget
@@ -735,7 +735,7 @@ Challenge:  F7: Seeding Cardano's Grassroots DeFi
 9             Build NFT liquidity pools      3.583333            35100
 10            Cardano-Cosmos IBC Bridge      3.566667            50000
 11  Browser tool- How to use DeFi dApps      3.541667            49800
-12  Infinity Financial Operating System      3.358974              NaN
+12  Infinity Financial Operating System      3.358974            24000
 13  Incrypture - CIP Structured Finance      3.250000            15000
 14  completMusic streaming/NFT Defi DEX      2.969697            20000
 15         Cardano Savings & Loan - PoC      2.547619            10000
@@ -755,7 +755,7 @@ Challenge:  F7: Community Events
 8   Bridge Builders - Governance Events      4.454545             18000
 9     After Town Hall by Catalyst Swarm      4.444444             25000
 10     Cardano4Climate Community Events      4.416667              4181
-11                   Haskell & Coffee ☕      4.411765              8200
+11                  Haskell & Coffee ☕      4.411765              8200
 12                    Eastern Town Hall      4.384615             12000
 13  Mass Cardano Education for Students      4.378788             26000
 14          Co-Creating Events Together      4.361111             12000
@@ -807,7 +807,7 @@ Challenge:  F7: Open Source Developer Ecosystem
 13     Glow Formal Verification Stage 2      3.916667             76000
 14       Dataset - Stake Pool Analytics      3.904762             10080
 15         [CRUST] Cardano Node in Rust      3.833333            200000
-16      Blace.io: Marketplace Creator ⚡      3.777778             97000
+16      Blace.io: Marketplace Creator ⚡     3.777778             97000
 17     Dataset - Token / CNFT Analytics      3.722222              9375
 18                      Glow on the PAB      3.500000             63000
 19                       Cardano-L-EARN      3.428571             18000
@@ -929,7 +929,7 @@ Challenge:  F7: Multilingual resources
 19             Presenting auf Deutsch !      3.952381              7500
 20   Advanced Cross-Translation Service      3.944444             11500
 21  Blockchaintranslation.io Part3:BLOG      3.904762              8900
-22    ስለ ካርዳኖ - CARDANO AMHARIC PODCAST      3.722222              3500
+22    ስለ ካርዳኖ - CARDANO AMHARIC PODCAST     3.722222              3500
 23  Japanese Cardano Crash Course Video      3.555556             10000
 24             Multilingual dynamic Q&A      3.484848              4700
 25         Multilingual quality content      3.370370             53000
@@ -996,7 +996,7 @@ Challenge:  F7: Fund8 challenge setting
 46   Lobbying for favorable legislation      3.433333            300000
 47          Functional cardano hardware      3.375000            500000
 48      Expand Access to Extend Cardano      3.333333            350000
-49       👑 Alternatives to Plutocracy 💸      3.333333            125000
+49     👑 Alternatives to Plutocracy 💸     3.333333            125000
 50                      Art Beyond NFTs      3.222222            150000
 51          Cardano Foresight Challenge      3.222222             75000
 52   Already Approved Project Challenge      3.142857            250000
